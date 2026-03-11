@@ -19,6 +19,7 @@ The robot simply acts like a parallel button press.
 
 ## Demo
 Click to watch video!
+
 [![ESP32 Vision Pinball Robot](images/demo.png)](https://youtu.be/zgImZ4fn5rA)
 
 ---
