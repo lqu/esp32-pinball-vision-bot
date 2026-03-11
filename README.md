@@ -17,7 +17,9 @@ The design intentionally does not modify the original pinball circuitry.
 
 The robot simply acts like a parallel button press.
 
-[Demo](https://youtu.be/zgImZ4fn5rA)
+## Demo
+Click to watch video!
+[![ESP32 Vision Pinball Robot](images/demo.png)](https://youtu.be/zgImZ4fn5rA)
 
 ---
 
